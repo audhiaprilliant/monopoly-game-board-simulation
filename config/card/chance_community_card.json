@@ -2,7 +2,7 @@
 	"chance_card": [
 		{
 			"number": 1,
-			"naration": "Advance to Go (Collect £200)",
+			"narration": "Advance to Go (Collect £200)",
 			"action": "move_money",
 			"asset": null,
 			"money": {
@@ -21,7 +21,7 @@
 		},
 		{
 			"number": 2,
-			"naration": "Advance to Trafalgar Square. If you pass Go, collect £200",
+			"narration": "Advance to Trafalgar Square. If you pass Go, collect £200",
 			"action": "move_money",
 			"asset": null,
 			"money": {
@@ -40,7 +40,7 @@
 		},
 		{
 			"number": 3,
-			"naration": "Advance to Mayfair",
+			"narration": "Advance to Mayfair",
 			"action": "move",
 			"asset": null,
 			"money": {
@@ -59,7 +59,7 @@
 		},
 		{
 			"number": 4,
-			"naration": "Advance to Pall Mall. If you pass Go, collect £200",
+			"narration": "Advance to Pall Mall. If you pass Go, collect £200",
 			"action": "move_money",
 			"asset": null,
 			"money": {
@@ -78,7 +78,7 @@
 		},
 		{
 			"number": 5,
-			"naration": "Advance to the nearest Station. If unowned, you may buy it from the Bank. If owned, pay wonder twice the rental to which they are otherwise entitled",
+			"narration": "Advance to the nearest Station. If unowned, you may buy it from the Bank. If owned, pay wonder twice the rental to which they are otherwise entitled",
 			"action": "move",
 			"asset": null,
 			"money": {
@@ -97,7 +97,7 @@
 		},
 		{
 			"number": 6,
-			"naration": "Advance to the nearest Station. If unowned, you may buy it from the Bank. If owned, pay wonder twice the rental to which they are otherwise entitled",
+			"narration": "Advance to the nearest Station. If unowned, you may buy it from the Bank. If owned, pay wonder twice the rental to which they are otherwise entitled",
 			"action": "move",
 			"asset": null,
 			"money": {
@@ -116,7 +116,7 @@
 		},
 		{
 			"number": 7,
-			"naration": "Advance to nearest Utility. If unowned, you may buy it from the Bank. If owned, throw dice and pay owner a total ten times amount thrown",
+			"narration": "Advance to nearest Utility. If unowned, you may buy it from the Bank. If owned, throw dice and pay owner a total ten times amount thrown",
 			"action": "move",
 			"asset": null,
 			"money": {
@@ -135,7 +135,7 @@
 		},
 		{
 			"number": 8,
-			"naration": "Bank pays you dividend of £50",
+			"narration": "Bank pays you dividend of £50",
 			"action": "money",
 			"asset": null,
 			"money": {
@@ -154,7 +154,7 @@
 		},
 		{
 			"number": 9,
-			"naration": "Get Out of Jail Free",
+			"narration": "Get Out of Jail Free",
 			"action": "asset",
 			"asset": "Jail Card",
 			"money": {
@@ -173,7 +173,7 @@
 		},
 		{
 			"number": 10,
-			"naration": "Go Back 3 Spaces",
+			"narration": "Go Back 3 Spaces",
 			"action": "move",
 			"asset": null,
 			"money": {
@@ -192,7 +192,7 @@
 		},
 		{
 			"number": 11,
-			"naration": "Go to Jail. Go directly to Jail, do not pass Go, do not collect £200",
+			"narration": "Go to Jail. Go directly to Jail, do not pass Go, do not collect £200",
 			"action": "move",
 			"asset": null,
 			"money": {
@@ -211,7 +211,7 @@
 		},
 		{
 			"number": 12,
-			"naration": "Make general repairs on all your property. For each house pay £25. For each hotel pay £100",
+			"narration": "Make general repairs on all your property. For each house pay £25. For each hotel pay £100",
 			"action": "money",
 			"asset": null,
 			"money": {
@@ -233,7 +233,7 @@
 		},
 		{
 			"number": 13,
-			"naration": "Speeding fine £15",
+			"narration": "Speeding fine £15",
 			"action": "money",
 			"asset": null,
 			"money": {
@@ -252,7 +252,7 @@
 		},
 		{
 			"number": 14,
-			"naration": "Take a trip to Kings Cross Station. If you pass Go, collect £200",
+			"narration": "Take a trip to Kings Cross Station. If you pass Go, collect £200",
 			"action": "move_money",
 			"asset": null,
 			"money": {
@@ -271,7 +271,7 @@
 		},
 		{
 			"number": 15,
-			"naration": "You have been elected Chairman of the Board. Pay each player £50",
+			"narration": "You have been elected Chairman of the Board. Pay each player £50",
 			"action": "money",
 			"asset": null,
 			"money": {
@@ -290,7 +290,7 @@
 		},
 		{
 			"number": 16,
-			"naration": "Your building loan matures. Collect £150",
+			"narration": "Your building loan matures. Collect £150",
 			"action": "money",
 			"asset": null,
 			"money": {
@@ -311,7 +311,7 @@
 	"community_card": [
 		{
 			"number": 1,
-			"naration": "Advance to Go (Collect £200)",
+			"narration": "Advance to Go (Collect £200)",
 			"action": "move_money",
 			"asset": null,
 			"money": {
@@ -330,7 +330,7 @@
 		},
 		{
 			"number": 2,
-			"naration": "Bank error in your favour. Collect £200",
+			"narration": "Bank error in your favour. Collect £200",
 			"action": "money",
 			"asset": null,
 			"money": {
@@ -349,7 +349,7 @@
 		},
 		{
 			"number": 3,
-			"naration": "Doctor’s fee. Pay £50",
+			"narration": "Doctor’s fee. Pay £50",
 			"action": "money",
 			"asset": null,
 			"money": {
@@ -368,7 +368,7 @@
 		},
 		{
 			"number": 4,
-			"naration": "From sale of stock you get £50",
+			"narration": "From sale of stock you get £50",
 			"action": "money",
 			"asset": null,
 			"money": {
@@ -387,7 +387,7 @@
 		},
 		{
 			"number": 5,
-			"naration": "Get Out of Jail Free",
+			"narration": "Get Out of Jail Free",
 			"action": "asset",
 			"asset": "Jail Card",
 			"money": {
@@ -406,7 +406,7 @@
 		},
 		{
 			"number": 6,
-			"naration": "Go to Jail. Go directly to jail, do not pass Go, do not collect £200",
+			"narration": "Go to Jail. Go directly to jail, do not pass Go, do not collect £200",
 			"action": "move",
 			"asset": null,
 			"money": {
@@ -425,7 +425,7 @@
 		},
 		{
 			"number": 7,
-			"naration": "Holiday fund matures. Receive £100",
+			"narration": "Holiday fund matures. Receive £100",
 			"action": "money",
 			"asset": null,
 			"money": {
@@ -444,7 +444,7 @@
 		},
 		{
 			"number": 8,
-			"naration": "Income tax refund. Collect £20",
+			"narration": "Income tax refund. Collect £20",
 			"action": "money",
 			"asset": null,
 			"money": {
@@ -463,7 +463,7 @@
 		},
 		{
 			"number": 9,
-			"naration": "It is your birthday. Collect £10 from every player",
+			"narration": "It is your birthday. Collect £10 from every player",
 			"action": "money",
 			"asset": null,
 			"money": {
@@ -482,7 +482,7 @@
 		},
 		{
 			"number": 10,
-			"naration": "Life insurance matures. Collect £100",
+			"narration": "Life insurance matures. Collect £100",
 			"action": "money",
 			"asset": null,
 			"money": {
@@ -501,7 +501,7 @@
 		},
 		{
 			"number": 11,
-			"naration": "Pay hospital fees of £100",
+			"narration": "Pay hospital fees of £100",
 			"action": "money",
 			"asset": null,
 			"money": {
@@ -520,7 +520,7 @@
 		},
 		{
 			"number": 12,
-			"naration": "Pay school fees of £50",
+			"narration": "Pay school fees of £50",
 			"action": "money",
 			"asset": null,
 			"money": {
@@ -539,7 +539,7 @@
 		},
 		{
 			"number": 13,
-			"naration": "Receive £25 consultancy fee",
+			"narration": "Receive £25 consultancy fee",
 			"action": "money",
 			"asset": null,
 			"money": {
@@ -558,7 +558,7 @@
 		},
 		{
 			"number": 14,
-			"naration": "You are assessed for street repairs. £40 per house. £115 per hotel",
+			"narration": "You are assessed for street repairs. £40 per house. £115 per hotel",
 			"action": "money",
 			"asset": null,
 			"money": {
@@ -580,7 +580,7 @@
 		},
 		{
 			"number": 15,
-			"naration": "You have won second prize in a beauty contest. Collect £10",
+			"narration": "You have won second prize in a beauty contest. Collect £10",
 			"action": "money",
 			"asset": null,
 			"money": {
@@ -599,7 +599,7 @@
 		},
 		{
 			"number": 16,
-			"naration": "You inherit £100",
+			"narration": "You inherit £100",
 			"action": "money",
 			"asset": null,
 			"money": {
